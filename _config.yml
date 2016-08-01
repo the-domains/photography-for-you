@@ -12,3 +12,7 @@ color:
     - '#BDF271'
     - '#FFFFA6'
 name: photography for you
+navigation:
+  - name: FLOWER
+    id: 06fb117e-db92-40c3-87d0-4254e59da99b
+    type: content
